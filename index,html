@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>pribadi</title>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="card">
+        <img src="foto.png" alt="fotoku" width="10" height="10">
+   
+        <p>
+        
+            Suyanto
+        </p>
+        
+   
+    
+    <h3>
+        <a href="https://www.instagram.com/anto_ja4?igsh=MXRsN2RiY2FsNWsxeQ==">anto_ja4</a>
+    </h3>
+    </div>
+</body>
+</html>
